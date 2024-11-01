@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@circle-fin/developer-controlled-wallets": "^4.6.0",
+    "dotenv": "^16.4.5"
+  }
+}
